@@ -50,7 +50,6 @@
         <version>1.14.0</version>
         <configuration>
           <schemaVersion>v2</schemaVersion>
-          <subscriptionId>016547ef-fc8f-4f64-bcfd-db3ccbe84d27</subscriptionId>
           <resourceGroup>tomcat-app</resourceGroup>
           <appName>tomcat-springapp</appName>
           <pricingTier>B1</pricingTier>
